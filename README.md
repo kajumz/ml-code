@@ -1,2 +1,2 @@
 # ml-code
-some ml algorithms
+введение в машинное обучение coursera yandesx
